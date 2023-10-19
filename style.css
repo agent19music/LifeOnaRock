@@ -1,0 +1,10 @@
+body{
+ background-color:rgb(255, 255, 255) ; 
+}
+
+#navbar .container button {
+  background-color: rgb(125, 66, 181);
+  color: white;
+  border-radius: 5px;
+  padding: 7px;
+}
